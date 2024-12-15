@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/admin/OneDrive/Máy tính/HK_III/ss6",
-      "program": "c:/Users/admin/OneDrive/Máy tính/HK_III/ss6/build/Debug/outDebug",
+      "cwd": "c:/Users/admin/OneDrive/Máy tính/HK_III",
+      "program": "c:/Users/admin/OneDrive/Máy tính/HK_III/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
